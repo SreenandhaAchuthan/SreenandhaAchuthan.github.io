@@ -298,7 +298,7 @@ section{
 
 .home{
     min-height: 100vh;
-    background: url("IMAGES/background\ img\ \(2\).jpg")  center/cover no-repeat;
+    background: url("background img (2).jpg")  center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -450,7 +450,7 @@ section{
 
 /* ticket section starts */
 .tickets{
-    background: url("IMAGES/ticket\ background.jpg") center/cover no-repeat fixed;
+    background: url("ticket background.jpg") center/cover no-repeat fixed;
     background-color: rgba(0,0,0,.6);
     background-blend-mode: color;
 
