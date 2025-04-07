@@ -1,4 +1,8 @@
+/*font awesome cdn link */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css");
 
+/* google fonts cdn link */
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Metamorphous&display=swap');
 
 :root{
     --main-color:#F8BC4B;
